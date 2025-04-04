@@ -1,1 +1,1 @@
-# pw-apitest-app
+- Tests created with Course [Playwright: Web Automation Testing From Zero to Hero](https://symfonia.udemy.com/course/playwright-from-zero-to-hero/)
